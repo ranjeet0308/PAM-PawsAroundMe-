@@ -29,9 +29,9 @@ Gamification:
 
 
 ![image alt](https://github.com/ranjeet0308/PAM-PawsAroundMe-/blob/9fa272b17e9940ed6b97b66b07fb5efefde18c3b/Screenshot%202025-09-03%20152237.png)
-![image alt](https://github.com/ranjeet0308/PAM-PawsAroundMe-/blob/9fa272b17e9940ed6b97b66b07fb5efefde18c3b/Screenshot%202025-09-03%20152237.png)
-![image alt](https://github.com/ranjeet0308/PAM-PawsAroundMe-/blob/9fa272b17e9940ed6b97b66b07fb5efefde18c3b/Screenshot%202025-09-03%20152237.png)
-![image alt](https://github.com/ranjeet0308/PAM-PawsAroundMe-/blob/9fa272b17e9940ed6b97b66b07fb5efefde18c3b/Screenshot%202025-09-03%20152237.png)
+![image alt](https://github.com/ranjeet0308/PAM-PawsAroundMe-/blob/386eefc77b2a71314a1cb4c1ea41361d4b4642d3/Screenshot%202025-09-03%20152249.png)
+![image alt](https://github.com/ranjeet0308/PAM-PawsAroundMe-/blob/386eefc77b2a71314a1cb4c1ea41361d4b4642d3/Screenshot%202025-09-03%20152302.png)
+![image alt](https://github.com/ranjeet0308/PAM-PawsAroundMe-/blob/386eefc77b2a71314a1cb4c1ea41361d4b4642d3/Screenshot%202025-09-03%20152314.png)
 
 
 Try out the app by installing and spotting your paws : 
